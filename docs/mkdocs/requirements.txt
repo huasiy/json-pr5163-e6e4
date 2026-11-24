@@ -8,4 +8,4 @@ mkdocs-minify-plugin==0.8.0                         # plugin "minify"
 mkdocs-redirects==1.2.3                             # plugin "redirects"
 mkdocs-htmlproofer-plugin==1.5.0                    # plugin "htmlproofer"
 
-PyYAML==6.0.3                                       # linter
+PyYAML==6.0.4                                       # linter
